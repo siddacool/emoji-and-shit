@@ -1,6 +1,6 @@
 <template>
   <view class="container">
-    <text class="text-color-primary">My Vue Native App</text>
+    <text class="text-color-primary">Holy Shit it works 💩</text>
   </view>
 </template>
 
@@ -13,5 +13,7 @@
 }
 .text-color-primary {
   color: blue;
+  font-weight: 600;
+  font-size: 30;
 }
 </style>
